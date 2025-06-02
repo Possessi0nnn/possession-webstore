@@ -1,2 +1,0 @@
-# possession-webstore
-Possession Webstore
